@@ -2,7 +2,6 @@ import './index.css';
 import {Component} from 'react';
 import { BrowserRouter as Router, Link, Route, Routes } from 'react-router-dom';
 import SuccessPage from './components/SuccessPage';
-import RegistrationForm from './components/RegistrationForm';
 import Step1 from './components/form-steps/Step1'
 
 
